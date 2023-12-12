@@ -1,0 +1,124 @@
+/* h1{
+    background-color: black;
+    color: white;
+} */
+
+/* @font-face {
+    font-family: 'uzair';
+    src: url('../RobotoMono-VariableFont_wght.ttf');
+ } */
+
+/* p{ */
+    /* font-weight: bold; */
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+   /* font-family: uzair; */
+/* } */
+
+/* @font-face {
+    font-family: 'uzair';
+    src: url('../RobotoMono-Italic-VariableFont_wght.ttf');
+}
+p{
+    font-family: uzair;
+} */
+/* p{
+font-family: 'EB Garamond', serif;
+font-family: 'Roboto Mono', monospace;
+} */
+/* a{
+    background-color: aqua;
+    text-decoration: none;
+} */
+
+/* 
+input:hover{
+    background-color: blueviolet;
+}
+input:active{
+    background-color: yellow;
+} */
+/* input:focus{
+    background-color: peru
+} */
+
+/* .main{ */
+    /* border-radius: 50px; */
+    /* text-shadow: 10px 10px 10px rebeccapurple; */
+    /* box-shadow: 0px 0px 25px black; */
+    /* background-color: aqua; */
+    /* width: 50%; */
+    /* height: 200px; */
+    /* overflow:scroll; */
+    /* border-width: 20px;
+    border-color: black;
+    border-style: double; */
+/* border: 10px groove blue; */
+/* margin: auto; */
+/* padding: 20px; */
+/* margin: 60px; */
+
+/* } */
+/* 
+a{
+    color: black;
+    text-decoration: none;
+    padding-left: 100px;
+}
+#ggg{
+    visibility: hidden;
+} */
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+h4{
+     font-family: 'Courier New', Courier, monospace;
+    font-weight: 600; 
+}
+
+.aaa{
+    text-align: center;
+    margin-right: 30px;
+    padding: 120px;
+    word-spacing: 30px;
+
+   
+    border-top: 10px;
+    border-bottom: 10px;
+    border-color: black;
+    border-style: double;
+
+}
+a{
+    /* background-color: aqua; */
+    margin: 30px;
+    color: black;
+    text-decoration: none;
+}
+img{
+    width: 250px;
+    height: 150px;
+}
+p{
+    text-align: center;
+    margin-left: 30px;
+}
+
+#ggg{
+    /* border-left: none;
+    border-right:none ; */
+    padding: 20px;
+    border-color: black;
+    border-style: groove;
+    border-left: none;
+    border-right: none;
+    /* border-top: 100px;
+    border-bottom: 100px; */
+}
+
